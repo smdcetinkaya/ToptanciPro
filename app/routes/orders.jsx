@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { getDB, saveDB, initialData } from "../interfaces/db";
+import { getDB, saveDB, initialData } from "../Interfaces/db";
 
 export default function Orders() {
   const [orders, setOrders] = useState([]);
