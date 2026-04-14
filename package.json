@@ -1,0 +1,24 @@
+{
+  "name": "toptanciapp",
+  "private": true,
+  "sideEffects": false,
+  "type": "module",
+  "scripts": {
+    "dev": "react-router dev",
+    "build": "react-router build",
+    "start": "netlify serve"
+  },
+  "dependencies": {
+    "@react-router/node": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router": "latest",
+    "bootstrap": "^5.3.0",
+    "bootstrap-icons": "^1.11.0",
+    "isbot": "^5"
+  },
+  "devDependencies": {
+    "@react-router/dev": "latest",
+    "vite": "latest"
+  }
+}
