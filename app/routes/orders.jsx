@@ -6,7 +6,7 @@ export default function Orders() {
   const [customers, setCustomers] = useState([]);
   const [products, setProducts] = useState([]);
 
-  // Düzenleme State'leri (Artık doğru yerde, fonksiyon içinde)
+  // Düzenleme State'leri
   const [editingId, setEditingId] = useState(null);
   const [editingData, setEditingData] = useState({});
 
@@ -195,7 +195,7 @@ export default function Orders() {
         </div>
       </div>
 
-      {/* Liste */}
+      {/* Listeleme */}
       <div className="table-responsive">
         <table className="table table-hover align-middle">
           <thead className="table-light text-secondary">
