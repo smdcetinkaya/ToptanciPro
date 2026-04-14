@@ -40,7 +40,7 @@ Projeyi yerel bilgisayarınızda çalıştırmak için:
 
 <table style="width: 100%;">
   <tr>
-    <td colspan="2" style="text-align: center;"><img src="./screenshots/home.png" alt="Ana Sayfa" style="width: 50%;"/></td>
+    <td colspan="2" style="text-align: center;"><img src="./screenshots/home.png" alt="Ana Sayfa"/></td>
   </tr>
   <tr>
     <td style="width: 50%;"><img src="./screenshots/orders.png" alt="Sipariş Yönetimi" /></td>
