@@ -21,7 +21,7 @@ export const initialData = {
     { id: 2, name: "Temizlik" }
   ],
   products: [
-    { id: 1, name: "Pilavlık Pirinç", price: 150, stock: 50, categoryId: 1 }
+    { id: 1, name: "5kg Pilavlık Pirinç", price: 425, stock: 45, categoryId: 1 }
   ],
   customers: [],
   orders: [],
