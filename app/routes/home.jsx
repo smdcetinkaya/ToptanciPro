@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { getDB, initialData } from "../interfaces/db";
+import { getDB, initialData } from "../Interfaces/db";
 
 export default function Index() {
   const [stats, setStats] = useState({
