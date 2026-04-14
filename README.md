@@ -6,7 +6,7 @@ Modern web teknolojileri ile geliştirilmiş, toptancılar için ürün, kategor
 
 Bu proje, modern JavaScript kütüphaneleri kullanılarak, bütüncül bir uygulama geliştirme deneyimi kazanmak amacıyla hazırlanmıştır. Uygulama, tam işlevsel bir CRUD (Create, Read, Update, Delete) yapısına sahiptir.
 
-🔗 **Canlı Demo:** [https://toptancipro.netlify.app]
+- 🔗 **Canlı Demo:** [https://toptancipro.netlify.app]
 
 ## 🛠️ Kullanılan Teknolojiler
 
