@@ -4,7 +4,7 @@ export default function Navbar() {
              style={{ fontFamily: "'Inter', sans-serif", borderBottom: "1px solid #333" }}>
           <div className="container">
             <a className="navbar-brand d-flex align-items-center" href="/">
-              {/* İkonlu ve Modern Logotype */}
+              {/* İkonlu ve Modern Logo */}
               <div className="bg-warning rounded-3 p-2 me-3 d-flex align-items-center justify-content-center" 
                    style={{ width: "40px", height: "40px" }}>
                 <i className="bi bi-box-seam-fill text-white fs-4"></i>
