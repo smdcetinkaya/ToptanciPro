@@ -35,3 +35,19 @@ Projeyi yerel bilgisayarınızda çalıştırmak için:
 1. Projeyi bilgisayarınıza indirin.
 2. Terminali açın ve `npm install` komutu ile bağımlılıkları yükleyin.
 3. `npm run dev` komutu ile projeyi ayağa kaldırın.
+
+## 📸 Proje Ekran Görüntüleri
+
+<table style="width: 100%;">
+  <tr>
+    <td colspan="2" style="text-align: center;"><img src="./screenshots/home.png" alt="Ana Sayfa" style="width: 50%;"/></td>
+  </tr>
+  <tr>
+    <td style="width: 50%;"><img src="./screenshots/orders.png" alt="Sipariş Yönetimi" /></td>
+    <td style="width: 50%;"><img src="./screenshots/customers.png" alt="Müşteri Yönetimi" /></td>
+  </tr>
+  <tr>
+    <td style="width: 50%;"><img src="./screenshots/products.png" alt="Ürün Paneli" /></td>
+    <td style="width: 50%;"><img src="./screenshots/categories.png" alt="Kategori Yönetimi"/></td>
+  </tr>
+</table>
