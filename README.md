@@ -8,18 +8,19 @@ Bu proje, modern JavaScript kütüphaneleri kullanılarak, bütüncül bir uygul
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- **Framework:** React Router 7 (Vite tabanlı)
+- **Framework:** React Router 7 (Vite tabanlı Remix)
 - **Tasarım:** Bootstrap 5 & Bootstrap Icons
 - **Veri Yönetimi:** LocalStorage (Tarayıcı tabanlı kalıcı veri yönetimi)
 - **Mimari:** Modüler Bileşen Yapısı (Components, Routes, Interfaces)
 
 ## 📁 Proje Klasör Yapısı
 
-Yönergeye uygun olarak aşağıdaki modüler yapı kurgulanmıştır:
+Proje klasörü için aşağıdaki modüler yapı kurgulanmıştır:
 
 - `app/Components`: Navbar, Footer gibi tekrar eden arayüz elemanları.
 - `app/routes`: Sayfa bileşenleri ve yönlendirmeler.
 - `app/Interfaces`: Veritabanı (db.js) ve veri iletişim katmanı.
+- `screenshots`: Proje görüntüleri.
 
 ## ✨ Temel Özellikler (CRUD)
 
