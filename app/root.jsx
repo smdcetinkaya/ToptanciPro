@@ -1,7 +1,7 @@
 import { Links, Meta, Outlet, Scripts, ScrollRestoration } from "react-router";
 import bootstrapStyles from "bootstrap/dist/css/bootstrap.min.css?url"; // Bootstrap CSS'i eklemek için
 import bootstrapIcons from "bootstrap-icons/font/bootstrap-icons.css?url"; // İconları eklemek için
-import Navbar from "./components/Navbar";
+import Navbar from "./Components/Navbar";
 import Footer from "./Components/Footer";
 
 export const links = () => [
